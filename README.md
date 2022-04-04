@@ -1,2 +1,3 @@
 # Android-NoiseGeneration-Cplusplus
- Android app that generates noise from native c++ code
+ Simple android app that generates noise from native c++ code. Just a test for using JNI
+ 
